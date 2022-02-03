@@ -1,0 +1,129 @@
+HTTP/1.1 200 OK
+Accept:
+*/*
+Accept-Encoding:
+gzip
+Accept-Language:
+pt-BR
+Access-Control-Allow-Credentials:
+true
+Access-Control-Allow-Headers:
+origin
+Access-Control-Allow-Methods:
+GET
+Access-Control-Allow-Origin:
+*
+Access-Control-Max-Age:
+3628800
+Akamai-GRN:
+0.4fbf1cb8.1643828894.61c23fd2
+Cache-Control:
+public
+Connection:
+keep-alive
+Content-Encoding:
+gzip
+Content-Type:
+application/json; charset=utf-8
+Date:
+Wed, 02 Feb 2022 19:08:14 GMT
+Expires:
+Thu, 03 Feb 2022 19:08:09 GMT
+Host:
+api.accuweather.com
+Origin:
+https://developer.accuweather.com
+RateLimit-Limit:
+50
+RateLimit-Remaining:
+46
+Referer:
+https://developer.accuweather.com/
+Request-Context:
+appId=cid-v1:cc223195-bccf-4201-9cde-374567896e20
+sec-ch-ua:
+Not;A Brand";v="99
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+Windows
+Sec-Fetch-Dest:
+empty
+Sec-Fetch-Mode:
+cors
+Sec-Fetch-Site:
+cross-site
+Transfer-Encoding:
+chunked
+User-Agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML
+Vary:
+Accept-Encoding
+X-Forwarded-For:
+200.101.138.19
+X-Forwarded-Port:
+443
+X-Forwarded-Proto:
+https
+[
+  {
+    "Version": 1,
+    "Key": "44944",
+    "Type": "City",
+    "Rank": 21,
+    "LocalizedName": "Curitiba",
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "PR",
+      "LocalizedName": "Paraná"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "41283",
+    "Type": "City",
+    "Rank": 55,
+    "LocalizedName": "Curitibanos",
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "SC",
+      "LocalizedName": "Santa Catarina"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "2730408",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Curitibanos",
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "SP",
+      "LocalizedName": "São Paulo"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "3581708",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Curitiba",
+    "Country": {
+      "ID": "MX",
+      "LocalizedName": "Mexico"
+    },
+    "AdministrativeArea": {
+      "ID": "PUE",
+      "LocalizedName": "Puebla"
+    }
+  }
+]

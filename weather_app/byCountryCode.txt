@@ -1,0 +1,312 @@
+HTTP/1.1 200 OK
+Accept:
+*/*
+Accept-Encoding:
+gzip
+Accept-Language:
+pt-BR
+Access-Control-Allow-Credentials:
+true
+Access-Control-Allow-Headers:
+origin
+Access-Control-Allow-Methods:
+GET
+Access-Control-Allow-Origin:
+*
+Access-Control-Max-Age:
+3628800
+Akamai-GRN:
+0.92112817.1643827863.7876d27
+Cache-Control:
+public
+Connection:
+keep-alive
+Content-Encoding:
+gzip
+Content-Type:
+application/json; charset=utf-8
+Date:
+Wed, 02 Feb 2022 18:51:03 GMT
+Expires:
+Thu, 03 Feb 2022 18:50:44 GMT
+Host:
+api.accuweather.com
+Origin:
+https://developer.accuweather.com
+RateLimit-Limit:
+50
+RateLimit-Remaining:
+47
+Referer:
+https://developer.accuweather.com/
+Request-Context:
+appId=cid-v1:cc223195-bccf-4201-9cde-374567896e20
+sec-ch-ua:
+Not;A Brand";v="99
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+Windows
+Sec-Fetch-Dest:
+empty
+Sec-Fetch-Mode:
+cors
+Sec-Fetch-Site:
+cross-site
+Transfer-Encoding:
+chunked
+User-Agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML
+Vary:
+Accept-Encoding
+X-Forwarded-For:
+200.101.138.19
+X-Forwarded-Port:
+443
+X-Forwarded-Proto:
+https
+[
+  {
+    "ID": "AC",
+    "LocalizedName": "Acre",
+    "EnglishName": "Acre",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "AL",
+    "LocalizedName": "Alagoas",
+    "EnglishName": "Alagoas",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "AM",
+    "LocalizedName": "Amazonas",
+    "EnglishName": "Amazonas",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "AP",
+    "LocalizedName": "Amapá",
+    "EnglishName": "Amapá",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "BA",
+    "LocalizedName": "Bahia",
+    "EnglishName": "Bahia",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "CE",
+    "LocalizedName": "Ceará",
+    "EnglishName": "Ceará",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "DF",
+    "LocalizedName": "Distrito Federal",
+    "EnglishName": "Distrito Federal",
+    "Level": 1,
+    "LocalizedType": "Federal District",
+    "EnglishType": "Federal District",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "ES",
+    "LocalizedName": "Espírito Santo",
+    "EnglishName": "Espírito Santo",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "GO",
+    "LocalizedName": "Goiás",
+    "EnglishName": "Goiás",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "MA",
+    "LocalizedName": "Maranhão",
+    "EnglishName": "Maranhão",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "MG",
+    "LocalizedName": "Minas Gerais",
+    "EnglishName": "Minas Gerais",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "MS",
+    "LocalizedName": "Mato Grosso Do Sul",
+    "EnglishName": "Mato Grosso Do Sul",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "MT",
+    "LocalizedName": "Mato Grosso",
+    "EnglishName": "Mato Grosso",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "PA",
+    "LocalizedName": "Pará",
+    "EnglishName": "Pará",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "PB",
+    "LocalizedName": "Paraíba",
+    "EnglishName": "Paraíba",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "PE",
+    "LocalizedName": "Pernambuco",
+    "EnglishName": "Pernambuco",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "PI",
+    "LocalizedName": "Piauí",
+    "EnglishName": "Piauí",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "PR",
+    "LocalizedName": "Paraná",
+    "EnglishName": "Paraná",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "RJ",
+    "LocalizedName": "Rio De Janeiro",
+    "EnglishName": "Rio De Janeiro",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "RN",
+    "LocalizedName": "Rio Grande Do Norte",
+    "EnglishName": "Rio Grande Do Norte",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "RO",
+    "LocalizedName": "Rondônia",
+    "EnglishName": "Rondônia",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "RR",
+    "LocalizedName": "Roraima",
+    "EnglishName": "Roraima",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "RS",
+    "LocalizedName": "Rio Grande Do Sul",
+    "EnglishName": "Rio Grande Do Sul",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "SC",
+    "LocalizedName": "Santa Catarina",
+    "EnglishName": "Santa Catarina",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "SE",
+    "LocalizedName": "Sergipe",
+    "EnglishName": "Sergipe",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "SP",
+    "LocalizedName": "São Paulo",
+    "EnglishName": "São Paulo",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  },
+  {
+    "ID": "TO",
+    "LocalizedName": "Tocantins",
+    "EnglishName": "Tocantins",
+    "Level": 1,
+    "LocalizedType": "State",
+    "EnglishType": "State",
+    "CountryID": "BR"
+  }
+]

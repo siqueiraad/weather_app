@@ -1,0 +1,25 @@
+[
+  {
+    "LocalObservationDateTime": "2022-02-02T16:10:00-03:00",
+    "EpochTime": 1643829000,
+    "WeatherText": "Parcialmente ensolarado",
+    "WeatherIcon": 3,
+    "HasPrecipitation": false,
+    "PrecipitationType": null,
+    "IsDayTime": true,
+    "Temperature": {
+      "Metric": {
+        "Value": 26.3,
+        "Unit": "C",
+        "UnitType": 17
+      },
+      "Imperial": {
+        "Value": 79,
+        "Unit": "F",
+        "UnitType": 18
+      }
+    },
+    "MobileLink": "http://www.accuweather.com/pt/br/curitiba/44944/current-weather/44944?lang=pt-br",
+    "Link": "http://www.accuweather.com/pt/br/curitiba/44944/current-weather/44944?lang=pt-br"
+  }
+]
